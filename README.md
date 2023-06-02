@@ -45,3 +45,6 @@ I re-implemented cash, hello, mario , readability in Python.
                 $ python dna.py data.csv
                 Usage: python dna.py data.csv sequence.txt
             ```
+
+
+Note : figlet and bank folders are some practice.
